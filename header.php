@@ -22,7 +22,6 @@
   <meta property="og:url" content="<?=CURRENT_URL?>" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Printables" />
-  <meta property="og:description" content="opis" />
   <meta property="og:image" content="<?=BASE_URL?>/media/ogimg.jpg" />
   <meta property="og:image:width" content="1000" />
   <meta property="og:image:height" content="690" />
