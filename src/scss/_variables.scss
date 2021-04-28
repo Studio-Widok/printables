@@ -4,6 +4,14 @@ $contentWidthText: 40rem;
 $spacing: 3rem;
 $wrapperSpacing: 3rem;
 
+@font-face {
+  font-family: 'GT America Mono';
+  src: url('./../../media/GT-America-Mono-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 @mixin fontDefault() {
-  font-family: sans-serif;
+  font-family: 'GT America Mono', sans-serif;
 }
