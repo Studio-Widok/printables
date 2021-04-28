@@ -17,10 +17,14 @@
   </div>
   <div id="social-media">
     <div id="social-media-container">
-      <?php include __DIR__ . '/media/fb.svg';?>
-      <?php include __DIR__ . '/media/inst.svg';?>
+      <a href="" target="_blank">
+        <?php include __DIR__ . '/media/fb.svg';?>
+      </a>
+      <a href="" target="_blank">
+        <?php include __DIR__ . '/media/inst.svg';?>
+      </a>
     </div>
-    <div id="social-media-text">Cooming soon...</div>
+    <div id="social-media-text">Cooming soon</div>
   </div>
 </main>
 <?php include 'footer.php';?>
