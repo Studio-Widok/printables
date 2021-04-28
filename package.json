@@ -1,5 +1,5 @@
 {
-  "name": "wordpress-boilerplate",
+  "name": "printables",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cash-dom": "^8.1.0",
-    "widok": "github:studio-widok/widok"
+    "widok": "github:studio-widok/widok",
+    "widok-fade-slider": "github:studio-widok/widok-fade-slider"
   },
   "devDependencies": {
     "@babel/core": "^7.13.10",
