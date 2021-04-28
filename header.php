@@ -26,6 +26,8 @@
   <meta property="og:image:width" content="1000" />
   <meta property="og:image:height" content="690" />
   <link rel="stylesheet" href="./dist/main.css" />
+  <link rel="preload" as="font" crossorigin="anonymous"
+    href="./dist/836e4ca8d0320f580a4a9eb9e5f255dc.ttf">
 </head>
 
 <body>
