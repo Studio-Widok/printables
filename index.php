@@ -20,7 +20,7 @@
       <a href="" target="_blank">
         <?php include __DIR__ . '/media/fb.svg';?>
       </a>
-      <a href="" target="_blank">
+      <a href="https://www.instagram.com/printables.wear/" target="_blank">
         <?php include __DIR__ . '/media/inst.svg';?>
       </a>
     </div>
